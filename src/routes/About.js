@@ -10,7 +10,7 @@ function About() {
 
   return (<div className="App">
   <header className="App-header">
-    <p>Sobre meu primeiro site reactJs</p>
+    <p>Sobre meu primeiro site reactJs.</p>
     <p>{extraText}</p>
   </header>
 
